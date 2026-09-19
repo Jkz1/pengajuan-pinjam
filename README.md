@@ -64,7 +64,6 @@ Pastikan container PostgreSQL sudah berjalan:
 ```bash
 docker ps
 ```
-
 Jika PostgreSQL sudah berstatus `Up`, lanjutkan:
 
 ```bash
@@ -105,6 +104,9 @@ Jika sudah berjalan, silakan buka:
 **http://localhost:5173**
 
 di browser untuk melihat hasilnya.
+
+---
+Project telah diuji dengan melakukan fresh installation menggunakan repository ini dan mengikuti langkah setup di atas.
 
 ---
 
